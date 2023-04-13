@@ -1,0 +1,5 @@
+\\zstsrv\stanios.tomasz$$\desktop\ZwierzakDomowy\ZwierzakDomowy\obj\Debug\net6.0\ZwierzakDomowy.csproj.AssemblyReference.cache
+\\zstsrv\stanios.tomasz$$\desktop\ZwierzakDomowy\ZwierzakDomowy\obj\Debug\net6.0\ZwierzakDomowy.GeneratedMSBuildEditorConfig.editorconfig
+\\zstsrv\stanios.tomasz$$\desktop\ZwierzakDomowy\ZwierzakDomowy\obj\Debug\net6.0\ZwierzakDomowy.AssemblyInfoInputs.cache
+\\zstsrv\stanios.tomasz$$\desktop\ZwierzakDomowy\ZwierzakDomowy\obj\Debug\net6.0\ZwierzakDomowy.AssemblyInfo.cs
+\\zstsrv\stanios.tomasz$$\desktop\ZwierzakDomowy\ZwierzakDomowy\obj\Debug\net6.0\ZwierzakDomowy.csproj.CoreCompileInputs.cache
